@@ -1,6 +1,6 @@
 # conexiones-uniojeda
 Emulacion: Comunicaciones de servidores con Falcultades de **UNIOJEDA**
-
+![](logo_uniojeda.png)
 La Universidad Alonso de Ojeda **(UNIOJEDA)** cuenta con **3** **servidores** en el cual se encuentran:
 - El Sistema Académico **(SA)**.
 - El manejo de la parte Administrativa .
@@ -8,6 +8,7 @@ La Universidad Alonso de Ojeda **(UNIOJEDA)** cuenta con **3** **servidores** en
 
 El **SA** está conectado a todas las Facultades de la Universidad para realizar procesos de inscripción, notas, horarios etc.
 
+![](redes.jpeg)
 Los servidores están conectado a un switch donde distribuye a varias áreas de la universidad.
 ## Decanato de  Ingenieria.
 Se dirige a un router del Decanato de Ingeniería, donde cuenta con:
