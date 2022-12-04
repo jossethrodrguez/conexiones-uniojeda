@@ -25,8 +25,7 @@ cuenta con:
 - 3 PC.
 - Una (1) Impresora.
 - Un (1) Teléfono IP.
-- Un (1) WI-FI 
-- Un (1)  router para conectar todos los dispositivos. 
+- Un (1) router WI-FI para conectar todos los dispositivos. 
 
 ## Laboratorio de Informática.
 tiene una diferencia a las facultades ya que desde el switch que esta el servidor llega una conexión directamente a un router WI-FI y de allí pasa a un switch en el cual están conectadas:
